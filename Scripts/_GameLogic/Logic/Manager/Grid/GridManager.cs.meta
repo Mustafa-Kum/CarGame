@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ceb66d87c964b90855a9f157b785437
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gridContainer: {fileID: 11400000, guid: e4356022e9c844b06928e63b59288887, type: 2}
+  - gridObjectManager: {instanceID: 0}
+  - particleContainer: {fileID: 11400000, guid: f63e0452f4f1ac64f82158c4eaedf2ca, type: 2}
+  - playerMoveData: {fileID: 11400000, guid: 924b3df54f70eda44a40f03d5548a7e7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

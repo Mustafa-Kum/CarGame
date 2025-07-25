@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c649be19f77f4c308401e991e6502ed5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - weaponProjectileRendererUpgradeManager: {instanceID: 0}
+  - projectileHitEffectContainer: {fileID: 11400000, guid: c7123e565b8766744a865a8c566c9d28, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

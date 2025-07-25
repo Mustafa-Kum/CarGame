@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c1cfd7c1e06245a1a46142f1be910698
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boosterDataSo: {instanceID: 0}
+  - playerMoveData: {instanceID: 0}
+  - gridMatrixController: {instanceID: 0}
+  - gridManager: {instanceID: 0}
+  - gridObjectContainer: {fileID: 11400000, guid: 5240c498952ce402ead6caacc80c4bef, type: 2}
+  - lineRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
